@@ -9,7 +9,7 @@ The project demonstrates how Machine Learning and data preprocessing techniques 
 
 🌐 Live Demo / Deployment
 
-👉 Streamlit App: https://heart-disease-prediction-mbuuxbhesyr4w7fpwymgwg.streamlit.app/
+ ## 👉 Streamlit App: https://heart-disease-prediction-mbuuxbhesyr4w7fpwymgwg.streamlit.app/
 ---
 
 ## Project Objectives
