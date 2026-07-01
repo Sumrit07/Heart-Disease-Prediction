@@ -6,6 +6,10 @@ Heart disease is one of the leading causes of death worldwide. Early prediction 
 
 The project demonstrates how Machine Learning and data preprocessing techniques can be combined to build an interactive healthcare prediction application.
 
+
+🌐 Live Demo / Deployment
+
+👉 Streamlit App: https://heart-disease-prediction-mbuuxbhesyr4w7fpwymgwg.streamlit.app/
 ---
 
 ## Project Objectives
